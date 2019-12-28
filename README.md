@@ -8,6 +8,6 @@ Indeed, access to healthcare is not easy in the United States. Without health in
 The goal of our analysis is to assess the impact of the body mass index and being a smoker (or not) on the costs of health insurance in the United States, taking into account socio-demographic variables.
  
  ## Scope of the project
- The data for this project was taken from Kaggle: [Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
+ The data for this project was taken from Kaggle: (https://www.kaggle.com/mirichoi0218/insurance)
 
 * Exploratory data analysis to understand the relationship between the independent variable and the dependent variable
