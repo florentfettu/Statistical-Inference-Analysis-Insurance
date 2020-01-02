@@ -1,4 +1,4 @@
-# Statistical-Inference-Analysis-Insurance
+# Statistical Inference Analysis Insurance
 
 ## Description
 The topic of our dataset is about the costs of health insurance that American citizens have to pay. In order to contextualize our subject, it's necessary to mention that the American health system is very different from that of Canada.
